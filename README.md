@@ -1,6 +1,6 @@
 # FutDAO - Framework para Gestión de Clubes Deportivos Basado en DAO y Web3
 
-![FutDAO Logo](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=200&h=200&fit=crop&crop=face)
+![FutDAO Logo]
 
 ## 🚀 Descripción
 
